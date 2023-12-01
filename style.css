@@ -4,7 +4,7 @@ html{
 body{
 	box-sizing: border-box;
 	padding: 1px;
-	margin: 0;
+	margin: 0 auto;
 	background: #926927;
 	width: 400px;
 	height: 300px;
